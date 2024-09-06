@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidTraining2</string>
+    <string name="app_name">AndroidTrainingFirebase</string>
 
     <!-- Login Screen -->
     <string name="label_login">Identificación de Usuarios</string>
